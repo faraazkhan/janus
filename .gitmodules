@@ -1,0 +1,54 @@
+[submodule "cucumber-vim"]
+	path = cucumber-vim
+	url = git@github.com:faraazkhan/cucumber-vim.git
+[submodule "vim-tmux"]
+	path = vim-tmux
+	url = git@github.com:tmux-plugins/vim-tmux.git
+[submodule "BufOnly.vim"]
+	path = BufOnly.vim
+	url = git@github.com:vim-scripts/BufOnly.vim.git
+[submodule "SimpleAutoComplPop"]
+	path = SimpleAutoComplPop
+	url = git@github.com:roxma/SimpleAutoComplPop.git
+[submodule "vim-airline"]
+	path = vim-airline
+	url = git@github.com:bling/vim-airline.git
+[submodule "vim-compiler-go"]
+	path = vim-compiler-go
+	url = git@github.com:rjohnsondev/vim-compiler-go.git
+[submodule "vim-terraform"]
+	path = vim-terraform
+	url = git@github.com:markcornick/vim-terraform.git
+[submodule "GoldenView.Vim"]
+	path = GoldenView.Vim
+	url = git@github.com:zhaocai/GoldenView.Vim.git
+[submodule "vim-bundler"]
+	path = vim-bundler
+	url = git@github.com:tpope/vim-bundler.git
+[submodule "vim-dispatch"]
+	path = vim-dispatch
+	url = git@github.com:tpope/vim-dispatch.git
+[submodule "Dockerfile.vim"]
+	path = Dockerfile.vim
+	url = git@github.com:ekalinin/Dockerfile.vim.git
+[submodule "vim-rake"]
+	path = vim-rake
+	url = git@github.com:tpope/vim-rake.git
+[submodule "neosnippet-snippets"]
+	path = neosnippet-snippets
+	url = git@github.com:Shougo/neosnippet-snippets.git
+[submodule "neosnippet.vim"]
+	path = neosnippet.vim
+	url = git@github.com:Shougo/neosnippet.vim.git
+[submodule "vim-easy-align"]
+	path = vim-easy-align
+	url = git@github.com:junegunn/vim-easy-align.git
+[submodule "vim-easygrep"]
+	path = vim-easygrep
+	url = git@github.com:dkprice/vim-easygrep.git
+[submodule "editorconfig-vim"]
+	path = editorconfig-vim
+	url = git@github.com:editorconfig/editorconfig-vim.git
+[submodule "Smyck-Color-Scheme"]
+	path = Smyck-Color-Scheme
+	url = git@github.com:faraazkhan/Smyck-Color-Scheme.git
